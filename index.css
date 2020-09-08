@@ -1,0 +1,175 @@
+html {
+    background-color: #EB5757;
+    color: #EB5757;
+}
+section {
+    background-color: #EB5757;
+    color: #f2f2f2;
+}
+.navbar {
+    background-color: #EB5757;
+}
+nav {
+    background-color: #EB5757 !important;
+}
+body {
+    background-color: #EB5757;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.media {
+    background-color: #EB5757;
+    color: #f2f2f2;
+    padding: 1%;
+    padding-top: 4%;
+}
+.media-body {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.media-body h5 {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+}
+.media-body p {
+    font-family: sans-serif;
+    font-size: 29px;
+    font-weight: lighter;
+}
+.media-vertical{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-family: sans-serif;
+    font-size: 29px;
+    font-weight: lighter;
+}
+.title {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    width: 100%;
+    border-bottom: 4px solid #f2f2f2;
+    padding-left: 1%;
+}
+#untitledPic{
+    height: 809px;
+    width: 674px;
+}
+.media img {
+    width: 988px;
+    height: 709px;
+}
+.title2 {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    width: 100%;
+    border-bottom: 4px solid #f2f2f2;
+    padding-left: 1%;
+    padding-right: 1%;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;   
+}
+.random {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#jeremiah {
+    height: 650px;
+    width: 650px;
+}
+#polaroid {
+    height: 650px;
+    width: 650px;
+}
+.card {
+   width: 100%;
+    border: 0px solid rgb(26,26,26);
+    border-radius: .25rem;
+    background-color: #EB5757;
+    background-image: #eb5757;
+}
+.card-deck {
+    padding: 2%;
+    background-color: #1a1a1a;
+    border-color: #1a1a1a;
+}
+.card-img-top {
+    background-color: #1a1a1a;
+    border-color: #1a1a1a;
+}
+.card-body{
+    background-color: #1a1a1a;
+    color: #f2f2f2;
+}
+.jumbotron{
+    background-image: url(../portfolio.html/journey.png);
+    height: 3600px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
+    margin: 0rem;
+
+}
+.frames {
+    background-color: #EB5757;
+    padding: 2%;
+}
+.card-group {
+    background-color: #EB5757;
+}
+.card-img{
+    padding-top: 4%;
+    background-color: #EB5757;
+}
+.conclusionPic img {
+    width: 96%;
+    height: auto;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 7%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin-left: 2%;
+}
+.conclusionPic2 img {
+    width: 100%;
+    height: auto;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin-left: 2%;
+    background-color: #1a1a1a;
+}
+.final {
+    width: 100%;
+    background-color: #1a1a1a;
+}
+#black {
+    background-color: #1a1a1a;
+}
+.card img {
+    width: 96%;
+    height: auto;
+}
+#red {
+    background-color: #EB5757;
+}
+
+
